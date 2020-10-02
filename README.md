@@ -3,6 +3,23 @@
 
 ICI Library Repository for CdO
 
+## SDK Version, SDK Tools
+```
+ Android 6.0, Android 7.0, Android 9, Android 10
+ 
+ Tools:
+ Android SDK Build-Tools
+ GPU Debugging Tools
+ Android SDK Command-line Tools 
+ Android Auto API Simulators
+ Android Auto Desktop Head Unit emulator
+ Android Emulartor
+ Android SDK Platform Tools
+ Google Play APK Expansion library
+ Google USB Driver
+ Intel x86 Emulator Accelerator (HAXM installer)
+```
+
 ## Pre requisites for android build.
 ```
 https://quasar.dev/quasar-cli/developing-cordova-apps/preparation
