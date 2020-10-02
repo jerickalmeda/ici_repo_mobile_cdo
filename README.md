@@ -36,11 +36,24 @@ npm install
 ```bash
 quasar dev
 ```
-
+### To change version of the app for update purposes 
+```
+package.json file in app root directory
+"version": "1.0.29" line
+```
 
 ### Build the app for production
 ```bash
-quasar build -m android
+1. quasar build -m android
+2. jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore ICIRepository.keystore {$directory_a}\src-cordova\platforms\android\app\build\outputs\apk\release\app-release-unsigned.apk  ICIRepository
+
+E: might be other drive location
+Passkey is 123456
+
+3. zipalign -v 4 {$directory_a}\src-cordova\platforms\android\app\build\outputs\apk\release\app-release-unsigned.apk {$directory_b}\app_releases\ICIRepository_G12_1stQtr_Core-Applied_v1.2.10.apk 
+
+{$directory_a} - location of the app-release-unsigned.apk
+{$directory_b} - intended for final apk output
 ```
 
 ### Customize the configuration
