@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # ICI Library Repository (ici_repo_mobileapp)
 
-ICI Library Repository G11
+ICI Library Repository for CdO
 
 ## Pre requisites for android build.
 ```
