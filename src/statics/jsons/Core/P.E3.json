@@ -1,0 +1,43 @@
+{
+    "course": [
+        {
+            "code": "P.E3",
+            "name": "Physical Education and Health 3",
+            "strand": "Academic",
+            "type": "Core",
+            "material": {
+                "1": {
+                    "subject_desc": "Physical Education and Health 3",
+                    "subject_code": "P.E3",
+                    "file": {
+                        "1": "Week 1.1 - Basic Dance Terms in Folk Dance",
+                        "2": "Week 1.2 - Basic Dance Terms in Folk Dance",
+                        "3": "Week 2 - Basic Dance Terms in Folk Dance"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "Physical Education and Health 3",
+                    "subject_code": "P.E3",
+                    "file": {
+                        "1": "Week 1.1 - Basic Dance Terms in Folk Dance",
+                        "2": "Week 1.2 - Basic Dance Terms in Folk Dance",
+                        "3": "Week 2 - Basic Dance Terms in Folk Dance"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "Physical Education and Health 3",
+                    "subject_code": "P.E3",
+                    "file": {
+                        "1": "Week 1.1 - Basic Dance Terms in Folk Dance",
+                        "2": "Week 1.2 - Basic Dance Terms in Folk Dance",
+                        "3": "Week 2 - Basic Dance Terms in Folk Dance"
+                    }
+                }
+            }
+        }
+    ]
+}

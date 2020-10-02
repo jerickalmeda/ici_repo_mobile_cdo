@@ -1,0 +1,68 @@
+{
+    "course": [
+        {
+            "code": "HRM",
+            "name": "Hotel and Restaurant Management",
+            "strand": "Technical-Vocational and Livelihood",
+            "type": "Specialized",
+            "material": {
+                "1": {
+                    "subject_desc": "SS1 - Housekeeping Services to Guest",
+                    "subject_code": "SS1-HRM",
+                    "file": {
+                        "1": "Week 1.1 - Provide Housekeeping Service to Guest",
+                        "2": "Week 1.2 - Provide Housekeeping Service to Guest",
+                        "3": "Week 2.1 - Provide Housekeeping Service to Guest",
+                        "4": "Week 2.2 - Provide Housekeeping Service to Guest"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Clean Bar Areas",
+                    "subject_code": "SS2-HRM",
+                    "file": {
+                        "1": "Week 1.1 - Managing Bar Operations",
+                        "2": "Week 1.2 - Managing Bar Operations",
+                        "3": "Week 2 - Clean Bar Areas"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "SS1 - Housekeeping Services to Guest",
+                    "subject_code": "SS1-HRM",
+                    "file": {
+                        "1": "Week 1.1 - Provide Housekeeping Service to Guest",
+                        "2": "Week 1.2 - Provide Housekeeping Service to Guest",
+                        "3": "Week 2.1 - Provide Housekeeping Service to Guest",
+                        "4": "Week 2.2 - Provide Housekeeping Service to Guest"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Clean Bar Areas",
+                    "subject_code": "SS2-HRM",
+                    "file": {
+                        "1": "Week 1.1 - Managing Bar Operations",
+                        "2": "Week 1.2 - Managing Bar Operations",
+                        "3": "Week 2 - Clean Bar Areas"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "SS1 - Housekeeping Services to Guest",
+                    "subject_code": "SS1-HRM",
+                    "file": {
+                        "1": "Week 1 - Handout"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Clean Bar Areas",
+                    "subject_code": "SS2-HRM",
+                    "file": {
+                        "1": "Week 1 - Handout"
+                    }
+                }
+            }
+        }
+    ]
+}

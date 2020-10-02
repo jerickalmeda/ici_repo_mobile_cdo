@@ -1,0 +1,40 @@
+{
+    "course": [
+        {
+            "code": "GENMATH",
+            "name": "General Mathematics",
+            "strand": "Academic",
+            "type": "Core",
+            "material": {
+                "1": {
+                    "subject_desc": "General Mathematics",
+                    "subject_code": "GENMATH",
+                    "file": {
+                        "1": "Week 5.2 - Exponential Inequality",   
+                        "3": "Week 6.2 - Graph of Rational Function",
+                        "4": "Week 6.3 - Laws of Logarithm"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "General Mathematics",
+                    "subject_code": "GENMATH",
+                    "file": {
+                        "1": "Week 5.1 - Video"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "General Mathematics",
+                    "subject_code": "GENMATH",
+                    "file": {
+                        "1": "Week 5.1 - Handout",   
+                        "2": "Week 6 - Handout"
+                    }
+                }
+            }
+        }
+    ]
+}

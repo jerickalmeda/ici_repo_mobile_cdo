@@ -1,0 +1,40 @@
+{
+    "course": [
+        {
+            "code": "ELS",
+            "name": "Earth, Life and Science",
+            "strand": "Academic",
+            "type": "Core",
+            "material": {
+                "1": {
+                    "subject_desc": "Earth, Life and Science",
+                    "subject_code": "ELS",
+                    "file": {
+                        "1": "Week 5.1 - NNatural Hazards, Mitigation and Adaptation",
+                        "2": "Week 5.2 - Natural Hazards, Mitigation and Adaptation",
+                        "3": "Week 6 - Hydrometeorological Hazard"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "Earth, Life and Science",
+                    "subject_code": "ELS",
+                    "file": {
+                        "1": "To be updated"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "Earth, Life and Science",
+                    "subject_code": "ELS",
+                    "file": {
+                        "1": "Week 5 - Handouts",
+                        "2": "Week 6 - Handouts"
+                    }
+                }
+            }
+        }
+    ]
+}

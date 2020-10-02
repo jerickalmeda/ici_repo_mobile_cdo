@@ -1,0 +1,58 @@
+{
+    "course": [
+        {
+            "code": "PN",
+            "name": "Practical Nursing",
+            "strand": "Technical-Vocational and Livelihood",
+            "type": "Specialized",
+            "material": {
+                "5": {
+                    "subject_desc": "SS5 - Infection Prevention and Basic Life Support",
+                    "subject_code": "SS5-PN",
+                    "file": {
+                        "1": "To be published"
+                    }
+                },
+                "6": {
+                    "subject_desc": "SS6 - Geriatrics with Bed Making",
+                    "subject_code": "SS6-PN",
+                    "file": {
+                        "1": "To be published"
+                    }
+                }
+            },
+            "video": {
+                "5": {
+                    "subject_desc": "SS5 - Infection Prevention and Basic Life Support",
+                    "subject_code": "SS5-PN",
+                    "file": {
+                        "1": "To be published"
+                    }
+                },
+                "6": {
+                    "subject_desc": "SS6 - Geriatrics with Bed Making",
+                    "subject_code": "SS6-PN",
+                    "file": {
+                        "1": "To be published"
+                    }
+                }
+            },
+            "handout": {
+                "5": {
+                    "subject_desc": "SS5 - Infection Prevention and Basic Life Support",
+                    "subject_code": "SS5-PN",
+                    "file": {
+                        "1": "To be published"
+                    }
+                },
+                "6": {
+                    "subject_desc": "SS6 - Geriatrics with Bed Making",
+                    "subject_code": "SS6-PN",
+                    "file": {
+                        "1": "To be published"
+                    }
+                }
+            }
+        }
+    ]
+}

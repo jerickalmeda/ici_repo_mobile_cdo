@@ -1,0 +1,66 @@
+{
+    "course": [
+        {
+            "code": "GAS",
+            "name": "General Academic Strand",
+            "strand": "Academic",
+            "type": "Specialized",
+            "material": {
+                "1": {
+                    "subject_desc": "SS1 - Introduction to World Religions and Belief Systems",
+                    "subject_code": "SS1-IWRBS",
+                    "file": {
+                        "1": "Week 1 - Introduction - Definition of Terms",
+                        "2": "Week 2.1 - Nature and Value of Religion",
+                        "3": "Week 2.2 - Being Religious and Spiritual"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Disciplines and Ideas in the Social Sciences",
+                    "subject_code": "SS2-DISS",
+                    "file": {
+                        "1": "Week 1 - Disciplines and Ideas in the Social Sciences",
+                        "2": "Week 2.1 - The Birth of Social Science",
+                        "3": "Week 2.2 - The Birth of Social Science"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "SS1 - Introduction to World Religions and Belief Systems",
+                    "subject_code": "SS1-IWRBS",
+                    "file": {
+                        "1": "Week 1 - Introduction - Definition of Terms",
+                        "2": "Week 2.1 - Nature and Value of Religion",
+                        "3": "Week 2.2 - Being Religious and Spiritual"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Disciplines and Ideas in the Social Sciences",
+                    "subject_code": "SS2-DISS",
+                    "file": {
+                        "1": "Week 1 - Disciplines and Ideas in the Social Sciences",
+                        "2": "Week 2.1 - The Birth of Social Science",
+                        "3": "Week 2.2 - The Birth of Social Science"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "SS1 - Introduction to World Religions and Belief Systems",
+                    "subject_code": "SS1-IWRBS",
+                    "file": {
+                        "1": "Week 1 - Handouts"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Disciplines and Ideas in the Social Sciences",
+                    "subject_code": "SS2-DISS",
+                    "file": {
+                        "1": "Week 1 - Handouts"
+                    }
+                }
+            }
+        }
+    ]
+}

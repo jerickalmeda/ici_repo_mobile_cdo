@@ -1,0 +1,40 @@
+{
+    "course": [
+        {
+            "code": "PE1",
+            "name": "Physical Education and Health 1",
+            "strand": "Academic",
+            "type": "Core",
+            "material": {
+                "1": {
+                    "subject_desc": "Physical Education and Health 1",
+                    "subject_code": "PE1",
+                    "file": {
+                        "1": "Week 5.1 - Exercise program design",
+                        "2": "Week 5.2 - Exercise program design",
+                        "3": "Week 6 - MODIFIABLE RISK FACTORS OF LIFESTYLE DISEASES"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "Physical Education and Health 1",
+                    "subject_code": "PE1",
+                    "file": {
+                        "1": "To be published"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "Physical Education and Health 1",
+                    "subject_code": "PE1",
+                    "file": {
+                        "1": "Week 5 - Handouts",
+                        "2": "Week 6 - Handouts"
+                    }
+                }
+            }
+        }
+    ]
+}

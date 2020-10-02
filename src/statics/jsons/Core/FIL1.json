@@ -1,0 +1,42 @@
+{
+    "course": [
+        {
+            "code": "FIL1",
+            "name": "Komunikasyon at Pananaliksik sa Wika at Kulturang Pilipino",
+            "strand": "Core",
+            "type": "Core",
+            "material": {
+                "1": {
+                    "subject_desc": "Komunikasyon at Pananaliksik sa Wika at Kulturang Pilipino",
+                    "subject_code": "FIL1",
+                    "file": {
+                        "1": "Week 5.1 - Gamit ng Wika sa Lipunan",
+                        "2": "Week 5.2 - Gamit ng Wika sa Lipunan",
+                        "3": "Week 5.3 - Gamit ng Wika sa Lipunan",
+                        "4": "Week 6.1 - Kasaysayang ng Wikang Pambansa",
+                        "5": "Week 6.2 - Kasaysayang ng Wikang Pambansa"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "Komunikasyon at Pananaliksik sa Wika at Kulturang Pilipino",
+                    "subject_code": "FIL1",
+                    "file": {
+                        "1": "To be updated"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "Komunikasyon at Pananaliksik sa Wika at Kulturang Pilipino",
+                    "subject_code": "FIL1",
+                    "file": {
+                        "1": "Week 5 - Handouts",
+                        "2": "Week 6 - Handouts"
+                    }
+                }
+            }
+        }
+    ]
+}

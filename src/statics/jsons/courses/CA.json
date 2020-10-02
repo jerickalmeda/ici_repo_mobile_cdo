@@ -1,0 +1,72 @@
+{
+    "course": [
+        {
+            "code": "CA",
+            "name": "Culinary Arts",
+            "strand": "Academic",
+            "material": {
+                "1": {
+                    "subject_desc": "SS1 - Cookery Fundamentals",
+                    "subject_code": "SS1-CA",
+                    "file": {
+                        "1": "Week 1.1 - Clean and Maintain Kitchen Premises",
+                        "2": "Week 1.2 - Food Safety and Sanitation",
+                        "3": "Week 1.3 - Ways to Prevent Burns and Fires",
+                        "4": "Week 1.4 - Ways to Prevent Cuts",
+                        "5": "Week 2.1 - Tools and Equipment for Cooking",
+                        "6": "Week 2.2 - Tools and Equipment for Cooking",
+                        "7": "Week 2.3 - Tools and Equipment for Cooking",
+                        "8": "Week 2.4 - Knife Skills",
+                        "9": "Week 2.5 - Knife Skills"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Restaurant and Dining Room Services",
+                    "subject_code": "SS2-CA",
+                    "file": {
+                        "1": "Week 1.1 - Restaurant and Dining Room Services",
+                        "2": "Week 1.2 - Hygiene, Safety and Sanitation in the Restaurant",
+                        "3": "Week 2.1 - Preparation for the Restaurant Service",
+                        "4": "Week 2.2 - Preparation for the Restaurant Service"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "SS1 - Cookery Fundamentals",
+                    "subject_code": "SS1-CA",
+                    "file": {
+                        "1": "Week 1.1 - Clean and Maintain Kitchen Premises",
+                        "2": "Week 1.2 - Food Safety and Sanitation",
+                        "3": "Week 1.3 - Ways to Prevent Burns and Fires",
+                        "4": "Week 1.4 - Ways to Prevent Cuts"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Restaurant and Dining Room Services",
+                    "subject_code": "SS2-CA",
+                    "file": {
+                        "1": "Week 1.1 - Restaurant and Dining Room Services",
+                        "2": "Week 1.2 - Hygiene, Safety and Sanitation in the Restaurant"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "SS1 - Cookery Fundamentals",
+                    "subject_code": "SS1-CA",
+                    "file": {
+                        "1": "Week 1 - Handout"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Restaurant and Dining Room Services",
+                    "subject_code": "SS2-CA",
+                    "file": {
+                        "1": "Week 1 - Handout"
+                    }
+                }
+            }
+        }
+    ]
+}

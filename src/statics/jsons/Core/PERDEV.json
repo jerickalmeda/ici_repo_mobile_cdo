@@ -1,0 +1,39 @@
+{
+    "course": [
+        {
+            "code": "PERDEV",
+            "name": "Personality Development",
+            "strand": "Core",
+            "type": "Core",
+            "material": {
+                "1": {
+                    "subject_desc": "Personality Development",
+                    "subject_code": "PERDEV",
+                    "file": {
+                        "1": "Week 5 - Coping with Stress in Middle and Late Adolescence",
+                        "2": "Week 6 - The Powers of the Mind"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "Personality Development",
+                    "subject_code": "PERDEV",
+                    "file": {
+                        "1": "Week 5 - Video"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "Personality Development",
+                    "subject_code": "PERDEV",
+                    "file": {
+                        "1": "Week 5 - Handouts",
+                        "2": "Week 6 - Handouts"
+                    }
+                }
+            }
+        }
+    ]
+}

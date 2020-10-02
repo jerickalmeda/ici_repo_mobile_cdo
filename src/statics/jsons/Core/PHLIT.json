@@ -1,0 +1,40 @@
+{
+    "course": [
+        {
+            "code": "PHLIT",
+            "name": "21st Century Literature from the Philippines and the World",
+            "strand": "Academic",
+            "type": "Core",
+            "material": {
+                "1": {
+                    "subject_desc": "21st Century Literature from the Philippines and the World",
+                    "subject_code": "PHLIT",
+                    "file": {
+                        "1": "Week 1 - Introduction to 21st Century LIterature from the Philippines and the World, Overview",
+                        "2": "Week 2 - Pre-Colonial Philippine Literature"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "21st Century Literature from the Philippines and the World",
+                    "subject_code": "PHLIT",
+                    "file": {
+                        "1": "Week 1 - Introduction to 21st Century LIterature from the Philippines and the World, Overview",
+                        "2": "Week 2 - Pre-Colonial Philippine Literature"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "Introduction to the PHLITsophy of the Human Person",
+                    "subject_code": "PHLIT",
+                    "file": {
+                        "1": "Week 1 - Introduction to 21st Century LIterature from the Philippines and the World, Overview",
+                        "2": "Week 2 - Pre-Colonial Philippine Literature"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "subjects_array": [
+        {
+            "subjectcode": "SS1-PROG",
+            "subject_description": "Apply programming skills in a second language.PHP1",
+            "subject_type": "Specialized Subject",
+            "vuefile": "Specialized",
+            "cur_dir": "Specialized/SS3-PROG",
+            "file": {
+                "1": "Lesson 01 - Fundamentalsssss of HTML",
+                "2": "Lesson 02 - Basic HTML tags",
+                "3": "Lesson 03 - HTML Lists",
+                "4": "Lesson 04 - HTML Links",
+                "5": "Lesson 05 - Folders & Subdirectories",
+                "6": "Lesson 06 - Images",
+                "7": "Lesson 07 - Tables",
+                "8": "Lesson 08 - Forms",
+                "9": "Lesson 09 - CSS Text Formatting",
+                "10": "Lesson 10 - CSS Box Model",
+                "11": "Lesson 11 - CSS Links"
+            }
+        }
+    ]
+}

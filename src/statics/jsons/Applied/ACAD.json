@@ -1,0 +1,43 @@
+{
+    "course": [
+        {
+            "code": "ACAD",
+            "name": "English for Academic and Professional Purposes",
+            "strand": "Academic",
+            "type": "Applied",
+            "material": {
+                "1": {
+                    "subject_desc": "English for Academic and Professional Purposes",
+                    "subject_code": "ACAD",
+                    "file": {
+                        "1": "Week 1.1 - Reading Academic Texts",
+                        "2": "Week 1.2 - Language Used in Academic Texts",
+                        "3": "Week 2 - Text Structure"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "English for Academic and Professional Purposes",
+                    "subject_code": "ACAD",
+                    "file": {
+                        "1": "Week 1.1 - Reading Academic Texts",
+                        "2": "Week 1.2 - Language Used in Academic Texts",
+                        "3": "Week 2 - Text Structure"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "English for Academic and Professional Purposes",
+                    "subject_code": "ACAD",
+                    "file": {
+                        "1": "Week 1.1 - Reading Academic Texts",
+                        "2": "Week 1.2 - Language Used in Academic Texts",
+                        "3": "Week 2 - Text Structure"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "course": [
+        {
+            "code": "ORALCOM",
+            "name": "Oral Communication",
+            "strand": "Academic",
+            "type": "Core",
+            "material": {
+                "1": {
+                    "subject_desc": "Oral Communication",
+                    "subject_code": "ORALCOM",
+                    "file": {
+                        "1": "Week 5 - Types of Speech Acts (includes Week 6)"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "Oral Communication",
+                    "subject_code": "ORALCOM",
+                    "file": {
+                        "1": "Week 5 - Video includes Week 6"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "Oral Communication",
+                    "subject_code": "ORALCOM",
+                    "file": {
+                        "1": "Week 5 - Handouts include Week 6"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "course": [
+        {
+            "code": "STEM",
+            "name": "Science, Technology, Engineering, Mathematics",
+            "strand": "Academic",
+            "type": "Specialized",
+            "material": {
+                "1": {
+                    "subject_desc": "SS1 - Pre-calculus",
+                    "subject_code": "SS1-STEM",
+                    "file": {
+                        "1": "Week 1.1 - Conic Sections",
+                        "2": "Week 1.2 - Circle",
+                        "3": "Week 1.3 - Circle",
+                        "4": "Week 2.1 - Parabolas",
+                        "5": "Week 2.2 - More Properties of Parabola"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - General Chemistry",
+                    "subject_code": "SS2-STEM",
+                    "file": {
+                        "1": "Week 1.1 - Matter and Its Properties",
+                        "2": "Week 1.2 - Separation Technologies",
+                        "3": "Week 2.1 - Isotopes",
+                        "4": "Week 2.2 - Ions and Molecules",
+                        "5": "Week 2.3 - Chemical Formula"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "SS1 - Pre-calculus",
+                    "subject_code": "SS1-STEM",
+                    "file": {
+                        "1": "Week 1.1 - Conic Sections",
+                        "2": "Week 1.2 - Circle",
+                        "3": "Week 1.3 - Circle",
+                        "4": "Week 2.1 - Parabolas",
+                        "5": "Week 2.2 - More Properties of Parabola"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - General Chemistry",
+                    "subject_code": "SS2-STEM",
+                    "file": {
+                        "1": "Week 1.1 - Matter and Its Properties",
+                        "2": "Week 1.2 - Separation Technologies",
+                        "3": "Week 2.1 - Isotopes",
+                        "4": "Week 2.2 - Ions and Molecules",
+                        "5": "Week 2.3 - Chemical Formula"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "SS1 - Pre-calculus",
+                    "subject_code": "SS1-STEM",
+                    "file": {
+                        "1": "Week 1 - Handouts"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - General Chemistry",
+                    "subject_code": "SS2-STEM",
+                    "file": {
+                        "1": "Week 1 - Handouts"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "course": [
+        {
+            "code": "IT",
+            "name": "Information Technology",
+            "strand": "Academic",
+            "type": "Specialized",
+            "material": {
+                "1": {
+                    "subject_desc": "SS1 - Apply program development approach html5, css3",
+                    "subject_code": "SS1-PROG",
+                    "file": {
+                        "1": "Week 1 - Getting Started with HTML",
+                        "2": "Week 2 - Basic HTML tags"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Develop designs for print media",
+                    "subject_code": "SS2-VGD",
+                    "file": {
+                        "1": "Week 1 - Types of Logos",
+                        "2": "Week 2 - Color Theory"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "SS1 - Apply program development approach html5, css3",
+                    "subject_code": "SS1-PROG",
+                    "file": {
+                        "1": "Week 1 - Getting Started with HTML",
+                        "2": "Week 2 - Basic HTML tags"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Develop designs for print media",
+                    "subject_code": "SS2-VGD",
+                    "file": {
+                        "1": "Week 1 - Types of Logos",
+                        "2": "Week 2 - Color Theory"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "SS1 - Apply program development approach html5, css3",
+                    "subject_code": "SS1-PROG",
+                    "file": {
+                        "1": "Week 1 - Getting Started with HTML",
+                        "2": "Week 2 - Basic HTML tags"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Develop designs for print media",
+                    "subject_code": "SS2-VGD",
+                    "file": {
+                        "1": "Week 1 - Types of Logos",
+                        "2": "Week 2 - Color Theory"
+                    }
+                }
+            }
+        }
+    ]
+}

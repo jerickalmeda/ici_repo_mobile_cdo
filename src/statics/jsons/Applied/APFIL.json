@@ -1,0 +1,46 @@
+{
+    "course": [
+        {
+            "code": "APFIL",
+            "name": "Filipino sa Piling Larangan",
+            "strand": "Academic",
+            "type": "Applied",
+            "material": {
+                "1": {
+                    "subject_desc": "Filipino sa Piling Larangan",
+                    "subject_code": "APFIL",
+                    "file": {
+                        "1": "Week 1 - Kahulugan, Kalikasan, at Katangian ng Pagsulat ng Sulating Akademik",
+                        "2": "Week 1.1 - Katangian ng Akademikong Pagsulat",
+                        "3": "Week 1.2 - Layunin ng Akademikong Pagsulat",
+                        "4": "Week 2.1 - Hakbangin sa Pagbuod"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "Filipino sa Piling Larangan",
+                    "subject_code": "APFIL",
+                    "file": {
+                        "1": "Week 1 - Kahulugan, Kalikasan, at Katangian ng Pagsulat ng Sulating Akademik",
+                        "2": "Week 1.1 - Katangian ng Akademikong Pagsulat",
+                        "3": "Week 1.2 - Layunin ng Akademikong Pagsulat",
+                        "4": "Week 2.1 - Hakbangin sa Pagbuod"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "Filipino sa Piling Larangan",
+                    "subject_code": "APFIL",
+                    "file": {
+                        "1": "Week 1 - Kahulugan, Kalikasan, at Katangian ng Pagsulat ng Sulating Akademik",
+                        "2": "Week 1.1 - Katangian ng Akademikong Pagsulat",
+                        "3": "Week 1.2 - Layunin ng Akademikong Pagsulat",
+                        "4": "Week 2.1 - Hakbangin sa Pagbuod"
+                    }
+                }
+            }
+        }
+    ]
+}

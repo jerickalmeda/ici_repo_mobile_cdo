@@ -1,0 +1,40 @@
+{
+    "course": [
+        {
+            "code": "DRRR",
+            "name": "Disaster Readiness and Risk Reduction",
+            "strand": "Academic",
+            "type": "Core",
+            "material": {
+                "1": {
+                    "subject_desc": "Disaster Readiness and Risk Reduction",
+                    "subject_code": "DRRR",
+                    "file": {
+                        "1": "Week 5 - Volcano Hazard",
+                        "2": "Week 6 - Rainfall Induced Geologic Hazards"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "Disaster Readiness and Risk Reduction",
+                    "subject_code": "DRRR",
+                    "file": {
+                        "1": "Week 5 - Video",
+                        "2": "Week 6 - Video"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "Disaster Readiness and Risk Reduction",
+                    "subject_code": "DRRR",
+                    "file": {
+                        "1": "Week 5 - Handouts",
+                        "2": "Week 6 - Handouts"
+                    }
+                }
+            }
+        }
+    ]
+}

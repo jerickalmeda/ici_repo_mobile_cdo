@@ -1,0 +1,62 @@
+{
+    "course": [
+        {
+            "code": "OM",
+            "name": "Office Management",
+            "strand": "Technical-Vocational and Livelihood",
+            "type": "Specialized",
+            "material": {
+                "1": {
+                    "subject_desc": "SS1 - Events Management",
+                    "subject_code": "SS1-OM",
+                    "file": {
+                        "1": "Week 1 - Introduction to Events Management",
+                        "2": "Week 2 - Introduction to Events Management"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Events Management",
+                    "subject_code": "SS2-OM",
+                    "file": {
+                        "1": "Week 1 - Venue Layout",
+                        "2": "Week 2 - Venue Layout"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "SS1 - Events Management",
+                    "subject_code": "SS1-OM",
+                    "file": {
+                        "1": "Week 1 - Introduction to Events Management",
+                        "2": "Week 2 - Introduction to Events Management"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Events Management",
+                    "subject_code": "SS2-OM",
+                    "file": {
+                        "1": "Week 1 - Venue Layout",
+                        "2": "Week 2 - Venue Layout"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "SS1 - Events Management",
+                    "subject_code": "SS1-OM",
+                    "file": {
+                        "1": "Week 1 - Introduction to Events Management"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Events Management",
+                    "subject_code": "SS2-OM",
+                    "file": {
+                        "1": "Week 1 - Venue Layout"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "subjects_array": [
+        {
+            "subjectcode": "SS3-PROG",
+            "subject_description": "Apply programming skills in a second language.PHP1",
+            "subject_type": "Specialized Subject",
+            "vuefile": "Specialized",
+            "cur_dir": "Specialized/SS3-PROG",
+            "file": {
+                "2": "Lesson 01 - Introduction & History of PHP",
+                "3": "Lesson 02 - Features of PHP",
+                "4": "Lesson 03 - Escaping to PHP",
+                "5": "Lesson 04 - Commenting PHP Code",
+                "6": "Lesson 05 - PHP Output functions",
+                "7": "Lesson 06 - PHP Variables & Datatypes",
+                "8": "Lesson 08 - Type Casting",
+                "9": "Lesson 09 - Operators and Expressions",
+                "10": "Lesson 10 - Conditional Control Structures",
+                "11": "Lesson 11 - Looping Structures",
+                "12": "Lesson 12 - PHP and WEB Forms",
+                "13": "Lesson 13 - Working with Form components",
+                "14": "Lesson 14 - The Array data type",
+                "15": "Lesson 15 - PHP Functions",
+                "16": "Lesson 16 - Session Handling"
+            }
+        }
+    ]
+}

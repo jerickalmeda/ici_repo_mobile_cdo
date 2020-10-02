@@ -1,0 +1,70 @@
+{
+    "course": [
+        {
+            "code": "EIM",
+            "name": "Electrical Installation and Maintenance",
+            "strand": "Technical-Vocational and Livelihood",
+            "type": "Specialized",
+            "material": {
+                "1": {
+                    "subject_desc": "SS1 - Introduction to Electrical Installation and Maintenance",
+                    "subject_code": "SS1-EIM",
+                    "file": {
+                        "1": "Week 1.1 - Introduction to Electricity",
+                        "2": "Week 1.2 - Properties of Electricity",
+                        "3": "Week 2.1 - Types of Electricity",
+                        "4": "Week 2.2 - Source of Electricity"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Rough-in and Cabling Services",
+                    "subject_code": "SS2-EIM",
+                    "file": {
+                        "1": "Week 1.1 - Introduction to Electrical Conduit",
+                        "2": "Week 1.2 - Types of Electrical Conduit",
+                        "3": "Week 2.1 - Types of Electrical Conduit Fittings",
+                        "4": "Week 2.2 - Conduit Bending"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "SS1 - Introduction to Electrical Installation and Maintenance",
+                    "subject_code": "SS1-EIM",
+                    "file": {
+                        "1": "Week 1.1 - Introduction to Electricity",
+                        "2": "Week 1.2 - Properties of Electricity",
+                        "3": "Week 2.1 - Types of Electricity",
+                        "4": "Week 2.2 - Source of Electricity"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Rough-in and Cabling Services",
+                    "subject_code": "SS2-EIM",
+                    "file": {
+                        "1": "Week 1.1 - Introduction to Electrical Conduit",
+                        "2": "Week 1.2 - Types of Electrical Conduit",
+                        "3": "Week 2.1 - Types of Electrical Conduit Fittings",
+                        "4": "Week 2.2 - Conduit Bending"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "SS1 - Introduction to Electrical Installation and Maintenance",
+                    "subject_code": "SS1-EIM",
+                    "file": {
+                        "1": "Week 1 - Handout"
+                    }
+                },
+                "2": {
+                    "subject_desc": "SS2 - Rough-in and Cabling Services",
+                    "subject_code": "SS2-EIM",
+                    "file": {
+                        "1": "Week 1 - Handout"
+                    }
+                }
+            }
+        }
+    ]
+}

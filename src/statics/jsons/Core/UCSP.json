@@ -1,0 +1,43 @@
+{
+    "course": [
+        {
+            "code": "UCSP",
+            "name": "Understanding Culture, Society and Politics",
+            "strand": "Academic",
+            "type": "Core",
+            "material": {
+                "1": {
+                    "subject_desc": "Understanding Culture, Society and Politics",
+                    "subject_code": "UCSP",
+                    "file": {
+                        "1": "Week 5.1 - Becoming a Member of Society",
+                        "2": "Week 5.2 - Conformity, Deviance, and Social Control",
+                        "3": "Week 5.3 - Different Sociological Theories on Deviance",
+                        "4": "Week 6.1 - Social Institutions",
+                        "6": "Week 6.2 - Economy",
+                        "7": "Week 6.3 - Education, Health, and Religion"
+                    }
+                }
+            },
+            "video": {
+                "1": {
+                    "subject_desc": "Understanding Culture, Society and Politics",
+                    "subject_code": "UCSP",
+                    "file": {
+                        "1": "To be published"
+                    }
+                }
+            },
+            "handout": {
+                "1": {
+                    "subject_desc": "Understanding Culture, Society and Politics",
+                    "subject_code": "UCSP",
+                    "file": {
+                        "1": "Week 5 - Handouts",
+                        "2": "Week 6 - Handouts"
+                    }
+                }
+            }
+        }
+    ]
+}
